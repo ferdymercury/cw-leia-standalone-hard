@@ -20,7 +20,7 @@ This directory contains the hardware design for the Leia board, first public ver
 
 All PCB files (schematic and PCB layout) have been designed using the KiCad EDA.
 This Cross Platform and Open Source Electronics Design Automation Suite can be downloaded
-on http://kicad-pcb.org/.
+on http://kicad.org/.
 
 
 ## Production files generation 101
